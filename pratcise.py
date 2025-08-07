@@ -378,11 +378,4 @@
 # print(a+b)
 
 
-a="dharun"
-b=" good boy"
-c=" was"
-print(a + c + b)
-
-
-
 
