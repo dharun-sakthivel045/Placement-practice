@@ -29,3 +29,4 @@ print(a.lower())    #Convert string to lowercase
 
 a="dharun was here"
 print(a.replace("d","e"))  #Replace character in string
+
